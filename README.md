@@ -1,4 +1,3 @@
-<img scr="https://pixabay.com/photos/code-html-digital-coding-web-1076536/">
 <h1 align="center">Hi 👋, I'm Shailesh Kumar</h1>
 <h3 align="center">A passionate Coder from India</h3>
 
