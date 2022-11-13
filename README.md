@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **C++ || DSA**
+- 💬 Ask me about **C || C++ || PYTHON || DSA**
 
 - 📫 How to reach me **shaileshkumargond00@gmail.com**
 
